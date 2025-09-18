@@ -9,8 +9,10 @@ For eg:-
 14.0.35.2039_COR_LP_dB_PRD_EXTR-N,
 12.0.35.1329_CON_LP_dB_PRD_EXTR-N
 "
-Rest of the thing are find by manully from hex data  
-thanks to @platomav
+Rest of the thing are find by manully from HEX DATA
+Thanks to @platomav
+
+
 ![MEA++ Latest MEA support CSE ME v18, v19, v20++](MEA++.jpg)
 
 

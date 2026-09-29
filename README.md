@@ -105,7 +105,7 @@ This project builds on that research and continues adding information for newer 
 Here is a real example of TnD MEA++ output showing CSME 21+ repository information:
 
 <p align="center">
-  <img src="assets/mea-console.png" alt="TnD MEA++ CSME 21+ analysis output" width="760">
+  <img src="MEA++.jpg" alt="TnD MEA++ CSME 21+ analysis output" width="760">
 </p>
 
 ## Why This Project Exists

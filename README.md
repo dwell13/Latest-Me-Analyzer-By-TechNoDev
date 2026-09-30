@@ -7,7 +7,8 @@ TnD MEA++ is a firmware analysis project from **TechNoDev** for working with Int
 The project currently focuses on **CSME 18, 19, 20, 21 and newer 21+ / ++ repositories** as the corresponding firmware data becomes available.
 
 <p align="center">
-  <img src="assets/mea-banner.png" alt="TnD MEA++ - Latest ME Analyzer by TechNoDev" width="850">
+  <img src="Latest-Me-Analyzer-By-TechNoDev/blob/main/Latest%20Me%20Analyzer%20by%20TechNoDev.png" alt="TnD MEA++ - Latest ME Analyzer by TechNoDev" width="850">
+  
 </p>
 
 ---
